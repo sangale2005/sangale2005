@@ -28,7 +28,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://github.com/shubham2005">
+<a href="https://github.com/sangale2005">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
@@ -58,9 +58,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sangale2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangale2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,5 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sangale2005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
